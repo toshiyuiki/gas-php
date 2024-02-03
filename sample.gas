@@ -1,0 +1,7 @@
+const doGet = (e) => {
+    //GET 処理
+}
+
+const doPost = (e) => {
+    //POST 処理
+}
